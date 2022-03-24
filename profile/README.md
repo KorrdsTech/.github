@@ -6,10 +6,10 @@
 ⚙️  Como o source é liberado, pode ocorrer erros nas duas versões.   
 🔒  Se usar o source code da Jeth, lembre-se de deixar os devido créditos aos criadores hein....
 
-# Recently Fixed Bugs
+### Bugs recentemente corrigidos:
 
-- [x] Comando unmute adiciona mute no usuário que executou o comando.
-- [x] Qualquer um podendo usar comando DIV.
-- [x] Mute não funcional?
+- [x] https://github.com/Jeth-Discord/JethJS/issues/74
+- [x] https://github.com/Jeth-Discord/JethJS/issues/73
+- [x] https://github.com/Jeth-Discord/JethJS/issues/72
 
 ![url](https://i.imgur.com/eORzuIw.png)
