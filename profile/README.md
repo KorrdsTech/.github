@@ -13,4 +13,4 @@
 - [x] https://github.com/Jeth-Discord/JethJS/issues/73
 - [x] https://github.com/Jeth-Discord/JethJS/issues/72
 
-![url](https://i.imgur.com/eORzuIw.png)
+![url](https://i.imgur.com/NybGppe.png)
