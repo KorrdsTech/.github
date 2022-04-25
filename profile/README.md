@@ -8,9 +8,9 @@
 
 ### Bugs recentemente corrigidos:
 
+- [x] https://github.com/Jeth-Discord/JethJS/issues/79
 - [x] https://github.com/Jeth-Discord/JethJS/issues/76
 - [x] https://github.com/Jeth-Discord/JethJS/issues/74
 - [x] https://github.com/Jeth-Discord/JethJS/issues/73
-- [x] https://github.com/Jeth-Discord/JethJS/issues/72
 
 ![url](https://i.imgur.com/NybGppe.png)
