@@ -9,5 +9,3 @@
 ### Bugs recentemente corrigidos:
 
 fields
-
-![url](https://i.imgur.com/NybGppe.png)
