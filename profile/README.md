@@ -5,7 +5,3 @@
 
 ⚙️  Como o source é liberado, pode ocorrer erros nas duas versões.   
 🔒  Se usar o source code da Jeth, lembre-se de deixar os devido créditos aos criadores hein....
-
-### Bugs recentemente corrigidos:
-
-fields
